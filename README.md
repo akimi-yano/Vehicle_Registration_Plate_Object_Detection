@@ -29,7 +29,12 @@ I used pretrained model `yolov9c.pt` with the pretrained weight and and trained 
 
 ### COCO Detection Evaluation:
 
-TODO: UPDATE - 
+```
+map  0.6881700304920099
+map50  0.9184385705155789
+map75  0.8086742052315866
+maps50-95  [    0.68817]
+```
 
 ---
 
@@ -44,4 +49,4 @@ TODO: UPDATE -
 
 ### Inference on Video:
 
-TODO: UPDATE -
+https://youtu.be/GcFTGHmGbmU
