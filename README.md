@@ -9,7 +9,9 @@ This project creates a machine learning model to operate an object detection tas
 
 This dataset consists of `5308` training and `386` validation dataset. Each dataset has images in `.jpg` format and labels in `.txt` format with the `xmin, ymin, xmax, ymax` format. Below are sample images from some of the classes present in the dataset:
 
-TODO: UPDATE - ![](./visuals/sports_classification_image.jpg?raw=true)
+![](./visuals/reg_plate_dataset1.png?raw=true)
+![](./visuals/reg_plate_dataset2.png?raw=true)
+![](./visuals/reg_plate_dataset3.png?raw=true)
 
 ---
 
@@ -40,9 +42,9 @@ maps50-95  [    0.68817]
 
 ### Inference on Images:
 
-TODO: UPDATE -
-TODO: UPDATE -
-TODO: UPDATE -
+![](./visuals/reg_plate_inference1.png?raw=true)
+![](./visuals/reg_plate_inference2.png?raw=true)
+![](./visuals/reg_plate_inference3.png?raw=true)
 
 ---
 
